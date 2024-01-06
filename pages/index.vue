@@ -14,7 +14,8 @@ useSeoMeta({
             <div>
                 <h1 class="text-5xl font-bold font-primary">Hey, I am Sumit. 👋</h1>
                 <p class="py-6 font-secondary">
-                    I am a software engineer and a passionate programmer.<br><br>
+                    I am a software engineer and a passionate programmer.
+                    <br><br>
                     I completed my engineering in 2022 from College of Engineering, Pune.
                     Since then, I am on a quest to educate <span class="text-secondary font-bold">10,000</span> students to
                     become amazing engineers who solve problems and benefit humanity.
@@ -27,10 +28,6 @@ useSeoMeta({
                         <Icon name="mdi:linkedin" class="h-4 w-4 md:h-5 md:w-5" /> Let's Connect
                     </a>
                 </div>
-
-                <div class="flex space-x-2 my-6">
-                    
-                </div>
             </div>
         </div>
     </section>
@@ -42,6 +39,13 @@ useSeoMeta({
         <div class="grid grid-cols-1 gap-10 my-6 lg:grid-cols-4">
             <CourseCard v-for="course in allCourses" :key="course.id" :course="course" />
         </div>
+    </section>
+    <section class="mt-16 w-full px-12">
+        <div class="font-primary font-bold text-3xl">
+            Past Experience
+        </div>
+        <div class="w-1/12 border-b-4 border-black h-1 my-4" />
+        <Timeline/>
     </section>
     <section class="font-secondary bg-base-300 pt-32 pb-16 mt-32 flex w-full items-center justify-center">
         <div class=" text-center">
