@@ -59,7 +59,7 @@
             </div>
             <div class="timeline-start md:text-end mb-10">
                 <time class="font-mono italic">2022</time>
-                <div class="text-lg font-black">COEP</div>
+                <div class="text-lg font-black">Graduated from COEP</div>
                 After long hustle at COEP, it was time to conclude the journey with <span
                     class="text-secondary font-bold">8.48 CGPA</span> and a lot of knowledge to pass on.
                 Published a book called <span class="text-secondary font-bold">"Design and Development of Peristaltic pump
