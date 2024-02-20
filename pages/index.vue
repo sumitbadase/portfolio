@@ -23,7 +23,7 @@ useSeoMeta({
                     Come join me in this journey, get started.
                 </p>
                 <div class="flex justify-start space-x-2">
-                    <a target="_blank" href="https://sumitbadase.graphy.com/courses" class="btn btn-outline btn-neutral">Explore Courses</a>
+                    <a target="_blank" href="https://learn.skillsbysumit.com/" class="btn btn-outline btn-neutral">Explore Courses</a>
                     <a target="_blank" href="https://www.linkedin.com/in/sumit-badase/" class="btn btn-neutral btn-active">
                         <Icon name="mdi:linkedin" class="h-4 w-4 md:h-5 md:w-5" /> Let's Connect
                     </a>
