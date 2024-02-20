@@ -17,7 +17,7 @@
                 <br>
                 <div class="carousel w-full lg:w-1/2">
                     <div id="item1" class="carousel-item w-full">
-                        <img src="/timeline/2023.jpeg" class="w-full rounded-lg shadow-lg my-2" />
+                        <img src="/timeline/2024.jpeg" class="w-full rounded-lg shadow-lg my-2" />
                     </div>
                 </div>
             </div>
