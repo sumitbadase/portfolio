@@ -22,7 +22,7 @@ export const allCourses: Course[] = [
         id: 'c-for-intermediate',
         name: 'C for Intermediate',
         image: '/courses/c.png',
-        link: 'https://sumitbadase.graphy.com/courses/DSA-For-Beginners-659810d0e4b040d30039d4d8',
+        link: 'https://sumitbadase.graphy.com/courses/C-from-basic-to-advance-65d5133de4b06a57884f747d',
     }
     
 ]
