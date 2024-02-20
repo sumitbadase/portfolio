@@ -18,5 +18,11 @@ export const allCourses: Course[] = [
         image: '/courses/dsa.png',
         link: 'https://sumitbadase.graphy.com/courses/DSA-For-Beginners-659810d0e4b040d30039d4d8',
     },
+    {
+        id: 'c-for-intermediate',
+        name: 'C for Intermediate',
+        image: '/courses/c.png',
+        link: 'https://sumitbadase.graphy.com/courses/DSA-For-Beginners-659810d0e4b040d30039d4d8',
+    }
     
 ]
