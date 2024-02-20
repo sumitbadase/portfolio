@@ -37,7 +37,7 @@
                 <div class="text-lg font-black">Joined <span class="text-secondary font-bold">Bajaj Finserv</span> as a
                     software engineer</div>
                 After grinding in college days, I got myself placed at Bajaj Finserv as a full time software engineer. My
-                majority of work there revolves around <span class="text-secondary font-bold">Java, Sping Boot, Databases
+                majority of work there revolves around <span class="text-secondary font-bold">Java, Spring Boot, Databases
                     and Kafka</span>.
                 <br>
                 <div class="carousel w-full lg:w-1/2">
