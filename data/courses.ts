@@ -16,7 +16,7 @@ export const allCourses: Course[] = [
         id: 'dsa-for-beginners',
         name: 'DSA for Beginners',
         image: '/courses/dsa.png',
-        link: 'https://sumitbadase.graphy.com/courses/DSA-For-Beginners-659810d0e4b040d30039d4d8',
+        link: 'https://learn.skillsbysumit.com/courses/DSA-For-Beginners-659810d0e4b040d30039d4d8',
     },
     {
         id: 'c-for-intermediate',
