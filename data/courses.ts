@@ -10,7 +10,7 @@ export const allCourses: Course[] = [
         id: 'java-for-beginners',
         name: 'Java for Beginners',
         image: '/courses/java.png',
-        link: 'https://learn.skillsbysumit.com/courses/Java-for-Beginners-65980ef1e4b09a2778d842c0',
+        link: 'https://learn.skillsbysumit.com/s/courses/65980ef1e4b09a2778d842c0/info',
     },
     {
         id: 'dsa-for-beginners',
