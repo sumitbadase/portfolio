@@ -14,7 +14,7 @@ useSeoMeta({
             <div>
                 <h1 class="text-5xl font-bold font-primary">Hey, I am Sumit. 👋</h1>
                 <p class="py-6 font-secondary">
-                    I am a software engineer and a passionate programmer.
+                    I am a Senior software engineer and a passionate programmer.
                     <br><br>
                     I completed my engineering in 2022 from College of Engineering, Pune.
                     Since then, I am on a quest to educate <span class="text-secondary font-bold">10,000</span> students to
