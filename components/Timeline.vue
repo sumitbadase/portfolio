@@ -1,5 +1,5 @@
 <template>
-    <ul class="timeline timeline-snap-icon max-md:timeline-compact timeline-vertical">
+    <ul class="timeline timeline-snap-icon max-md:timeline-compact timeline-vertical w-full">
         <li>
             <div class="timeline-middle">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="h-5 w-5">
@@ -9,15 +9,13 @@
                 </svg>
             </div>
             <div class="timeline-start md:text-end mb-10">
-                <time class="font-mono italic">2023</time>
-                <div class="text-lg font-black">Embarked on a mission to educate 10,000 students to become future engineers.
-                </div>
-                I joined Cybage to teach 300+ students to teach Java, DSA and other courses for free every weekend. Total
-                1000+ students have benefited from this and I aim to continue this until foreseeable future.
+                <time class="font-mono italic text-sm md:text-base">2025</time>
+                <div class="text-base md:text-lg lg:text-xl font-black">Working at <span class="text-secondary font-bold">Harman International</span> A Samsung Company</div>
+                <p class="text-sm md:text-base mt-2">After completing my journey at Bajaj Finserv, I joined Harman International as a Senior Software Engineer SDE-III. This experience allowed me to work on cutting-edge automotive technologies and expand my expertise in <span class="text-secondary font-bold">AI, ML, LLM, RAG, Agentic AI, Data Engineering Databricks, IOT, Spring Boot, Microservices, and Cloud Technologies</span> while contributing to Samsung's innovative solutions.</p>
                 <br>
                 <div class="carousel w-full lg:w-1/2">
                     <div id="item1" class="carousel-item w-full">
-                        <img src="/timeline/2024.jpeg" class="w-full rounded-lg shadow-lg my-2" />
+                        <img src="/timeline/2025.png" class="w-full rounded-lg shadow-lg my-2 object-contain" alt="Harman International 2025" loading="lazy" />
                     </div>
                 </div>
             </div>
@@ -33,14 +31,36 @@
                 </svg>
             </div>
             <div class="timeline-end mb-10">
-                <time class="font-mono italic">2022</time>
-                <div class="text-lg font-black">Joined <span class="text-secondary font-bold">Bajaj Finserv</span> as a
-                    software engineer</div>
-                After grinding in college days, I got myself placed at Bajaj Finserv as a full time software engineer. My
-                majority of work there revolves around <span class="text-secondary font-bold">Java, Spring Boot, Databases
-                    and Kafka</span>.
+                <time class="font-mono italic text-sm md:text-base">2024 - 2025</time>
+                <div class="text-base md:text-lg lg:text-xl font-black">Executive MBA from <span class="text-secondary font-bold">IIM Indore</span></div>
+                <p class="text-sm md:text-base mt-2">Pursuing Executive MBA alongside my professional journey to enhance business acumen and leadership skills. This program allows me to balance work commitments while gaining advanced knowledge in <span class="text-secondary font-bold">Strategic Management, Finance, Marketing, Operations, and Voice Agents</span> from one of India's premier management institutes.</p>
                 <br>
                 <div class="carousel w-full lg:w-1/2">
+                    <div id="item1" class="carousel-item w-full">
+                        <img src="/timeline/2024-B.png" class="w-full rounded-lg shadow-lg my-2" />
+                    </div>
+                </div>
+            </div>
+            <hr />
+        </li>
+        <li>
+            <hr />
+            <div class="timeline-middle">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="h-5 w-5">
+                    <path fill-rule="evenodd"
+                        d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.857-9.809a.75.75 0 00-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 10-1.06 1.061l2.5 2.5a.75.75 0 001.137-.089l4-5.5z"
+                        clip-rule="evenodd" />
+                </svg>
+            </div>
+            <div class="timeline-start md:text-end mb-10">
+                <time class="font-mono italic text-sm md:text-base">2022 - May 2025</time>
+                <div class="text-base md:text-lg lg:text-xl font-black">Worked 3+ years <span class="text-secondary font-bold">Bajaj Finserv</span> as a
+                    Senior software engineer</div>
+                <p class="text-sm md:text-base mt-2">After grinding in college days, I got myself placed at Bajaj Finserv as a full time software engineer. My
+                majority of work there revolves around <span class="text-secondary font-bold">Java, Spring Boot, Databases
+                    and Kafka</span>.</p>
+                <br>
+                <div class="carousel w-full md:w-3/4 lg:w-1/2">
                     <div id="item1" class="carousel-item w-full">
                         <img src="/timeline/2022-2.jpeg" class="w-full rounded-lg shadow-lg my-2" />
                     </div>
@@ -57,15 +77,15 @@
                         clip-rule="evenodd" />
                 </svg>
             </div>
-            <div class="timeline-start md:text-end mb-10">
-                <time class="font-mono italic">2022</time>
-                <div class="text-lg font-black">Graduated from COEP</div>
-                After long hustle at COEP, it was time to conclude the journey with <span
+            <div class="timeline-end mb-10">
+                <time class="font-mono italic text-sm md:text-base">2022</time>
+                <div class="text-base md:text-lg lg:text-xl font-black">Graduated from COEP</div>
+                <p class="text-sm md:text-base mt-2">After long hustle at COEP, it was time to conclude the journey with <span
                     class="text-secondary font-bold">8.48 CGPA</span> and a lot of knowledge to pass on.
                 Published a book called <span class="text-secondary font-bold">"Design and Development of Peristaltic pump
-                    for pharmaceutical use"</span> and a patent registered for home automation.
+                    for pharmaceutical use"</span> and a patent registered for home automation.</p>
                 <br>
-                <div class="carousel w-full lg:w-1/2">
+                <div class="carousel w-full md:w-3/4 lg:w-1/2">
                     <div id="item1" class="carousel-item w-full">
                         <img src="/timeline/2022.jpeg" class="w-full rounded-lg shadow-lg my-2" />
                     </div>
@@ -82,11 +102,11 @@
                         clip-rule="evenodd" />
                 </svg>
             </div>
-            <div class="timeline-end mb-10">
-                <time class="font-mono italic">2018</time>
-                <div class="text-lg font-black">Got into College of Engineering, Pune.</div>
-                Scored <span class="text-secondary font-bold">99.49 Percentile in MHT-CET exam</span>, and got into
-                Instrumentation & Control Engineering.
+            <div class="timeline-start md:text-end mb-10">
+                <time class="font-mono italic text-sm md:text-base">2018</time>
+                <div class="text-base md:text-lg lg:text-xl font-black">Got into College of Engineering, Pune.</div>
+                <p class="text-sm md:text-base mt-2">Scored <span class="text-secondary font-bold">99.49 Percentile in MHT-CET exam</span>, and got into
+                Instrumentation & Control Engineering.</p>
                 <br>
                 <div class="carousel w-full lg:w-1/2">
                     <div id="item1" class="carousel-item w-full">
@@ -105,17 +125,17 @@
                         clip-rule="evenodd" />
                 </svg>
             </div>
-            <div class="timeline-start md:text-end mb-10">
-                <time class="font-mono italic">2016</time>
-                <div class="text-lg font-black">Received Felicitation from <span class="text-secondary font-bold">Zee
+            <div class="timeline-end mb-10">
+                <time class="font-mono italic text-sm md:text-base">2016</time>
+                <div class="text-base md:text-lg lg:text-xl font-black">Received Felicitation from <span class="text-secondary font-bold">Zee
                         News</span></div>
-                Received cash award of <span class="text-secondary font-bold">INR 2 Lac</span> and felicitation from state
+                <p class="text-sm md:text-base mt-2">Received cash award of <span class="text-secondary font-bold">INR 2 Lac</span> and felicitation from state
                 governer <a target="_blank" href="https://en.m.wikipedia.org/wiki/C._Vidyasagar_Rao"
                     class="text-secondary font-bold">Shri. Vidya Sagar sir</a> and education minister <a target="_blank"
                     href="https://en.m.wikipedia.org/wiki/Vinod_Tawde" class="text-secondary font-bold">Mr. Vinod Tawade</a>
-                sir for acheiveng <span class="text-secondary font-bold">95.8%</span> in SSC Board.
+                sir for acheiveng <span class="text-secondary font-bold">95.8%</span> in SSC Board.</p>
                 <br>
-                <div class="carousel w-full lg:w-1/2">
+                <div class="carousel w-full md:w-3/4 lg:w-1/2">
                     <div id="item1" class="carousel-item w-full">
                     <img src="/timeline/2016.png" class="w-full rounded-lg shadow-lg my-2" />
                 </div>

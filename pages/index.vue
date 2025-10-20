@@ -3,7 +3,7 @@ import { allCourses } from '~/data/courses';
 
 useSeoMeta({
     title: 'Skills by Sumit',
-    description: 'Learn programming skills with Sumit Badase, software engineer with 2+ YOE working on high-throughput applications.',
+    description: 'Learn programming skills with Sumit Badase, Senior software engineer with 4+ YOE working on high-throughput applications.',
 })
 </script>
 
@@ -14,9 +14,9 @@ useSeoMeta({
             <div>
                 <h1 class="text-5xl font-bold font-primary">Hey, I am Sumit. 👋</h1>
                 <p class="py-6 font-secondary">
-                    I am a software engineer and a passionate programmer.
+                    I am a Senior software engineer and a passionate programmer.
                     <br><br>
-                    I completed my engineering in 2022 from College of Engineering, Pune.
+                    I completed my engineering in 2022 from College of Engineering, Pune and Executive MBA from IIM Indore in 2025.
                     Since then, I am on a quest to educate <span class="text-secondary font-bold">10,000</span> students to
                     become amazing engineers who solve problems and benefit humanity.
                     <br><br>

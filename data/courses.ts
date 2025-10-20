@@ -14,7 +14,7 @@ export const allCourses: Course[] = [
     },
     {
         id: 'dsa-for-beginners',
-        name: 'DSA for Beginners',
+        name: 'Data Structures and Algorithms (Basic and Advance)',
         image: '/courses/dsa.png',
         link: 'https://learn.skillsbysumit.com/courses/DSA-For-Beginners-659810d0e4b040d30039d4d8',
     },
