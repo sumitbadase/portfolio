@@ -57,7 +57,7 @@ useSeoMeta({
                     </div>
                     <p class="text-gray-300 mb-4">Complete AI journey from basics to advanced ML, LLM, and Agentic AI implementations. Hands-on projects with real-world applications.</p>
                     <div class="flex justify-between items-center">
-                        <span class="text-2xl font-bold text-white">₹15,999</span>
+                        <span class="text-2xl font-bold text-white">Free</span>
                         <button class="btn btn-primary btn-sm">Enroll Now</button>
                     </div>
                 </div>
@@ -73,7 +73,7 @@ useSeoMeta({
                     </div>
                     <p class="text-gray-300 mb-4">Master algorithmic trading strategies, backtesting, and quantitative analysis. Build profitable trading systems.</p>
                     <div class="flex justify-between items-center">
-                        <span class="text-2xl font-bold text-white">₹25,999</span>
+                        <span class="text-2xl font-bold text-white">Free</span>
                         <button class="btn btn-success btn-sm">Start Trading</button>
                     </div>
                 </div>
@@ -89,7 +89,7 @@ useSeoMeta({
                     </div>
                     <p class="text-gray-300 mb-4">Advanced Data Structures, Algorithms, and System Design for FAANG-level interviews. Mock interviews included.</p>
                     <div class="flex justify-between items-center">
-                        <span class="text-2xl font-bold text-white">₹12,999</span>
+                        <span class="text-2xl font-bold text-white">Free</span>
                         <button class="btn btn-warning btn-sm">Master DSA</button>
                     </div>
                 </div>
